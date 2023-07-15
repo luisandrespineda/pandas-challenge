@@ -1,0 +1,21 @@
+Written Report:
+
+This file will work to fulfill the written report portion of the assignment.
+
+For this challenge we were provided with a district-wide standardized test results, which includes every students math and reading scores. The given files was aggregated into one data set in which each individual row provided the individual student's id, name, gender, grade, school attended, math score, reading score, and their school's ID, type, size, and budget.
+
+That information was then processed into following tables: district summary, schools summary, highest performing schools by overall passing rate, lowest performing schools by overall passing rate, math scores by grade, reading scores by grade, and scores by overall spending. 
+
+The following conclusions have been drawn from the data set:
+
+1. Scores are not affected by the grade of the students. For any given high school, there is little variance between the grades' scores. 9th through 12th grade all perform similarly within each school. Therefore, the grade of a student is not a good indicator as to how they will perform in standardized tests.
+
+2. Charter schools significantly outperform district schools. The overall passing rate for charter and district schools were 90% and 54% respectively. Charter schools have more flexibility with their curriculum and could therefore be better focused on success in standardized tests.
+
+2. Schools with smaller student bodies perform better than schools with larger student bodies. For example, large schools (2000-5000 students) had an overall passing rate of 58%, while small schools (<1000 students) and medium schools (1000-2000 students) had an overall passing rate of 90% and 91% respectively. This might be due to larger schools having a higher ratio of students to teachers which would make it more difficult for the teacher to focus on individual students to make sure that they are learning the academic material. However, the large school segment is too large and should be tranched further to figure out where the size of the school starts to have a detrimental effect on the performance of the students. The large schools parameters should be further broken down, possibly in 2000-3000 students, 3000-4000 students, and 4000-5000 students.
+
+4. Per capita spending does not have a result on overall success rate. Higher spending per student was correlated with lower overall passing rate. Students in schools where less than $585 was spent per capita had an overall passing rate of 90% while schools with $645-680 spending per capita had an overall passing rate of 54%. 
+
+5. It is possible that charter schools outperform district school as charter schools tend to have a smaller student body and therefore can focus more on each individual student. The negative correlation between per capita spending and overall passing rate further backs this as charter schools tend to have much smaller budgets and therefore would have lower per capita spending despite also having a smaller student body.
+
+
